@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">ListView</string>
+    <string name="africaZAR">ZAR</string>
+    <string name="russianRUB">RUB</string>
+    <string name="singaporeSGD">SGD</string>
+    <string name="turkishTRY">TRY</string>
+    <string name="englishGBR">GBR</string>
+    <string name="chinaCNY">CNY</string>
+    <string name="usaUSD">USD</string>
+
+    <string name="africa">South African\nrand</string>
+    <string name="russian">Russian\nrouble</string>
+    <string name="singapore">Singapore\ndollar</string>
+    <string name="turkish">Turkish\nlira</string>
+    <string name="china">China\nyuan</string>
+    <string name="usa">USA\ndollar</string>
+    <string name="english">England\npound</string>
+
+    <string name="flag">flag</string>
+</resources>
